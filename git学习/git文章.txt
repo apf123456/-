@@ -1,0 +1,2 @@
+1   cmd 里面运行git提示“不是内部或外部命令，也不是可运行的程序”的解决办法 https://www.cnblogs.com/xiayu25/p/6081040.html
+2
