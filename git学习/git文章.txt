@@ -1,3 +1,4 @@
 1   cmd 里面运行git提示“不是内部或外部命令，也不是可运行的程序”的解决办法 https://www.cnblogs.com/xiayu25/p/6081040.html
 2   git push命令详解https://blog.csdn.net/loongkingwhat/article/details/84378386
 3   git创建远程仓库并上传代码到远程仓库中https://blog.csdn.net/liuweixiao520/article/details/78971221
+4   git push到GitHub的时候遇到! [rejected] master -> master (non-fast-forward)的问题https://blog.csdn.net/xieneng2004/article/details/81044371
